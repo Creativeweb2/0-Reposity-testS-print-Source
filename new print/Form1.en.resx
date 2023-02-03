@@ -188,6 +188,31 @@
   <data name="CheckBox5.Text" xml:space="preserve">
     <value>view reporter in yuor browser</value>
   </data>
+  <data name="Button6.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Button6.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="Button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 32</value>
+  </data>
+  <data name="Button6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>139, 41</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Button6.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Button6.Text" xml:space="preserve">
+    <value>select photo</value>
+  </data>
+  <data name="Button6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="Button2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left</value>
   </data>
@@ -231,10 +256,10 @@
     <value>Top, Left</value>
   </data>
   <data name="Button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>307, 31</value>
+    <value>290, 31</value>
   </data>
   <data name="Button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>139, 41</value>
+    <value>156, 41</value>
   </data>
   <data name="Button1.Text" xml:space="preserve">
     <value>select photo</value>
@@ -255,7 +280,7 @@
     <value>Top, Left</value>
   </data>
   <data name="RadioButton6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 30</value>
+    <value>63, 37</value>
   </data>
   <data name="RadioButton6.Text" xml:space="preserve">
     <value>photo designer</value>
@@ -2503,7 +2528,6 @@
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Inherit</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
