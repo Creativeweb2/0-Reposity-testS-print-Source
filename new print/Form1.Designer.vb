@@ -34,11 +34,9 @@ Partial Class Form1
         Me.CheckBox4 = New System.Windows.Forms.CheckBox()
         Me.CheckBox5 = New System.Windows.Forms.CheckBox()
         Me.GroupBox5 = New System.Windows.Forms.GroupBox()
-        Me.Button2 = New System.Windows.Forms.Button()
         Me.RadioButton7 = New System.Windows.Forms.RadioButton()
         Me.RadioButton8 = New System.Windows.Forms.RadioButton()
         Me.GroupBox4 = New System.Windows.Forms.GroupBox()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.RadioButton5 = New System.Windows.Forms.RadioButton()
         Me.RadioButton6 = New System.Windows.Forms.RadioButton()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
@@ -52,6 +50,9 @@ Partial Class Form1
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button6 = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox7.SuspendLayout()
         Me.GroupBox5.SuspendLayout()
@@ -145,25 +146,13 @@ Partial Class Form1
         'GroupBox5
         '
         resources.ApplyResources(Me.GroupBox5, "GroupBox5")
+        Me.GroupBox5.Controls.Add(Me.Button6)
         Me.GroupBox5.Controls.Add(Me.Button2)
         Me.GroupBox5.Controls.Add(Me.RadioButton7)
         Me.GroupBox5.Controls.Add(Me.RadioButton8)
         Me.GroupBox5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.GroupBox5.Name = "GroupBox5"
         Me.GroupBox5.TabStop = False
-        '
-        'Button2
-        '
-        resources.ApplyResources(Me.Button2, "Button2")
-        Me.Button2.BackColor = System.Drawing.Color.White
-        Me.Button2.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.Button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray
-        Me.Button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro
-        Me.Button2.ForeColor = System.Drawing.Color.Black
-        Me.Button2.Image = Global.s_print.My.Resources.Resources.zoom22_32__2_
-        Me.Button2.Name = "Button2"
-        Me.Button2.UseVisualStyleBackColor = False
         '
         'RadioButton7
         '
@@ -190,19 +179,6 @@ Partial Class Form1
         Me.GroupBox4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.GroupBox4.Name = "GroupBox4"
         Me.GroupBox4.TabStop = False
-        '
-        'Button1
-        '
-        resources.ApplyResources(Me.Button1, "Button1")
-        Me.Button1.BackColor = System.Drawing.Color.White
-        Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.Button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray
-        Me.Button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro
-        Me.Button1.ForeColor = System.Drawing.Color.Black
-        Me.Button1.Image = Global.s_print.My.Resources.Resources.zoom22_32__2_
-        Me.Button1.Name = "Button1"
-        Me.Button1.UseVisualStyleBackColor = False
         '
         'RadioButton5
         '
@@ -314,6 +290,45 @@ Partial Class Form1
         Me.Button4.Name = "Button4"
         Me.Button4.UseVisualStyleBackColor = False
         '
+        'Button2
+        '
+        resources.ApplyResources(Me.Button2, "Button2")
+        Me.Button2.BackColor = System.Drawing.Color.White
+        Me.Button2.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.Button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.Button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray
+        Me.Button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro
+        Me.Button2.ForeColor = System.Drawing.Color.Black
+        Me.Button2.Image = Global.s_print.My.Resources.Resources.zoom22_32__2_
+        Me.Button2.Name = "Button2"
+        Me.Button2.UseVisualStyleBackColor = False
+        '
+        'Button1
+        '
+        resources.ApplyResources(Me.Button1, "Button1")
+        Me.Button1.BackColor = System.Drawing.Color.White
+        Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.Button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.Button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray
+        Me.Button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro
+        Me.Button1.ForeColor = System.Drawing.Color.Black
+        Me.Button1.Image = Global.s_print.My.Resources.Resources.zoom22_32__2_
+        Me.Button1.Name = "Button1"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
+        'Button6
+        '
+        resources.ApplyResources(Me.Button6, "Button6")
+        Me.Button6.BackColor = System.Drawing.Color.White
+        Me.Button6.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.Button6.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.Button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray
+        Me.Button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro
+        Me.Button6.ForeColor = System.Drawing.Color.Black
+        Me.Button6.Image = Global.s_print.My.Resources.Resources.zoom22_32__2_
+        Me.Button6.Name = "Button6"
+        Me.Button6.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         resources.ApplyResources(Me, "$this")
@@ -375,4 +390,5 @@ Partial Class Form1
     Friend WithEvents GroupBox7 As GroupBox
     Friend WithEvents Label1 As Label
     Friend WithEvents Button5 As Button
+    Friend WithEvents Button6 As Button
 End Class

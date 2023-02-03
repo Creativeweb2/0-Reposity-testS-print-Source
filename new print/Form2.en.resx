@@ -124,9 +124,6 @@
   <data name="Bth_color.Text" xml:space="preserve">
     <value>header color</value>
   </data>
-  <data name="Bth_color.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
     <value>221, 41</value>
   </data>
@@ -136,20 +133,11 @@
   <data name="Label1.Text" xml:space="preserve">
     <value>margin of page:</value>
   </data>
-  <data name="Label1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Troot_padding.Location" type="System.Drawing.Point, System.Drawing">
     <value>320, 41</value>
   </data>
-  <data name="Troot_padding.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ch1_align.Location" type="System.Drawing.Point, System.Drawing">
     <value>122, 68</value>
-  </data>
-  <data name="Ch1_align.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
     <value>21, 71</value>
@@ -160,14 +148,8 @@
   <data name="Label2.Text" xml:space="preserve">
     <value>text align</value>
   </data>
-  <data name="Label2.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Th1_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>122, 17</value>
-  </data>
-  <data name="Th1_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label3.Location" type="System.Drawing.Point, System.Drawing">
     <value>21, 17</value>
@@ -178,14 +160,8 @@
   <data name="Label3.Text" xml:space="preserve">
     <value>padding top:</value>
   </data>
-  <data name="Label3.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Th1_bottom.Location" type="System.Drawing.Point, System.Drawing">
     <value>122, 42</value>
-  </data>
-  <data name="Th1_bottom.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label4.Location" type="System.Drawing.Point, System.Drawing">
     <value>21, 45</value>
@@ -196,14 +172,8 @@
   <data name="Label4.Text" xml:space="preserve">
     <value>padding bottom:</value>
   </data>
-  <data name="Label4.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Th1_font_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>122, 95</value>
-  </data>
-  <data name="Th1_font_bold.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label5.Location" type="System.Drawing.Point, System.Drawing">
     <value>21, 97</value>
@@ -214,14 +184,8 @@
   <data name="Label5.Text" xml:space="preserve">
     <value>font bold:</value>
   </data>
-  <data name="Label5.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tp_one_font_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>376, 54</value>
-  </data>
-  <data name="Tp_one_font_bold.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label6.Location" type="System.Drawing.Point, System.Drawing">
     <value>289, 57</value>
@@ -232,14 +196,8 @@
   <data name="Label6.Text" xml:space="preserve">
     <value>font bold:</value>
   </data>
-  <data name="Label6.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_tow_bottom.Location" type="System.Drawing.Point, System.Drawing">
     <value>107, 54</value>
-  </data>
-  <data name="Tdiv_tow_bottom.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label7.Location" type="System.Drawing.Point, System.Drawing">
     <value>289, 26</value>
@@ -250,9 +208,6 @@
   <data name="Label7.Text" xml:space="preserve">
     <value>textalign:</value>
   </data>
-  <data name="Label7.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label8.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 57</value>
   </data>
@@ -262,20 +217,11 @@
   <data name="Label8.Text" xml:space="preserve">
     <value>padding bottom:</value>
   </data>
-  <data name="Label8.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_tow_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>107, 26</value>
   </data>
-  <data name="Tdiv_tow_top.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Cp_one_align.Location" type="System.Drawing.Point, System.Drawing">
     <value>376, 23</value>
-  </data>
-  <data name="Cp_one_align.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label9.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 29</value>
@@ -285,9 +231,6 @@
   </data>
   <data name="Label9.Text" xml:space="preserve">
     <value>padding top:</value>
-  </data>
-  <data name="Label9.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Bp_one_font.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -360,14 +303,8 @@
   <data name="GroupBox2.Text" xml:space="preserve">
     <value>Sub titel</value>
   </data>
-  <data name="GroupBox2.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ttable_one_border.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 100</value>
-  </data>
-  <data name="Ttable_one_border.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label10.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 104</value>
@@ -378,14 +315,8 @@
   <data name="Label10.Text" xml:space="preserve">
     <value>Border line :</value>
   </data>
-  <data name="Label10.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Th4_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 48</value>
-  </data>
-  <data name="Th4_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label12.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 53</value>
@@ -396,14 +327,8 @@
   <data name="Label12.Text" xml:space="preserve">
     <value>Distance between lines:</value>
   </data>
-  <data name="Label12.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_one_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 22</value>
-  </data>
-  <data name="Tdiv_one_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label13.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 25</value>
@@ -414,14 +339,8 @@
   <data name="Label13.Text" xml:space="preserve">
     <value>Top margin :</value>
   </data>
-  <data name="Label13.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ttable_one_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>320, 18</value>
-  </data>
-  <data name="Ttable_one_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label11.Location" type="System.Drawing.Point, System.Drawing">
     <value>54, 18</value>
@@ -432,14 +351,8 @@
   <data name="Label11.Text" xml:space="preserve">
     <value>distance between top reporter and top page:</value>
   </data>
-  <data name="Label11.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Timg_top_heigth.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 178</value>
-  </data>
-  <data name="Timg_top_heigth.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label14.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 182</value>
@@ -450,14 +363,8 @@
   <data name="Label14.Text" xml:space="preserve">
     <value>Photo hight</value>
   </data>
-  <data name="Label14.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ttable_one_height.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 74</value>
-  </data>
-  <data name="Ttable_one_height.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label15.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 78</value>
@@ -468,20 +375,11 @@
   <data name="Label15.Text" xml:space="preserve">
     <value>Report header hight :</value>
   </data>
-  <data name="Label15.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label31.Location" type="System.Drawing.Point, System.Drawing">
     <value>578, 25</value>
   </data>
-  <data name="Label31.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tpage_width.Location" type="System.Drawing.Point, System.Drawing">
     <value>503, 21</value>
-  </data>
-  <data name="Tpage_width.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label30.Location" type="System.Drawing.Point, System.Drawing">
     <value>422, 24</value>
@@ -492,20 +390,11 @@
   <data name="Label30.Text" xml:space="preserve">
     <value>page width:</value>
   </data>
-  <data name="Label30.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="GroupBox4.Text" xml:space="preserve">
     <value>General</value>
   </data>
-  <data name="GroupBox4.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Timg_log_heigth.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 152</value>
-  </data>
-  <data name="Timg_log_heigth.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label16.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 157</value>
@@ -516,14 +405,8 @@
   <data name="Label16.Text" xml:space="preserve">
     <value>Hight :</value>
   </data>
-  <data name="Label16.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Timg_log_width.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 126</value>
-  </data>
-  <data name="Timg_log_width.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label17.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 129</value>
@@ -534,14 +417,8 @@
   <data name="Label17.Text" xml:space="preserve">
     <value>Width :</value>
   </data>
-  <data name="Label17.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Th4_font_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 204</value>
-  </data>
-  <data name="Th4_font_bold.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label18.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 208</value>
@@ -552,20 +429,40 @@
   <data name="Label18.Text" xml:space="preserve">
     <value>Line bold:</value>
   </data>
-  <data name="Label18.ToolTip" xml:space="preserve">
-    <value />
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>375, 44</value>
+  </data>
+  <data name="Button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 104</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Button1.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="Button1.Text" xml:space="preserve">
+    <value>font</value>
+  </data>
+  <data name="Button1.ToolTip" xml:space="preserve">
+    <value>تعديل خط رأس التقرير</value>
   </data>
   <data name="Bh4_font.Location" type="System.Drawing.Point, System.Drawing">
-    <value>613, 237</value>
+    <value>529, 178</value>
+  </data>
+  <data name="Bh4_font.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 104</value>
   </data>
   <data name="Bh4_font.Text" xml:space="preserve">
     <value>font</value>
   </data>
   <data name="TabPage1.Text" xml:space="preserve">
     <value>Reporter header</value>
-  </data>
-  <data name="TabPage1.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Bh1_font.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -638,14 +535,8 @@
   <data name="GroupBox1.Text" xml:space="preserve">
     <value>Titel</value>
   </data>
-  <data name="GroupBox1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="TabPage2.Text" xml:space="preserve">
     <value>Reporter titel</value>
-  </data>
-  <data name="TabPage2.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Btr_color.Location" type="System.Drawing.Point, System.Drawing">
     <value>315, 130</value>
@@ -653,14 +544,8 @@
   <data name="Btr_color.Text" xml:space="preserve">
     <value>line color</value>
   </data>
-  <data name="Btr_color.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ttable_tow_border.Location" type="System.Drawing.Point, System.Drawing">
     <value>110, 123</value>
-  </data>
-  <data name="Ttable_tow_border.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label19.Location" type="System.Drawing.Point, System.Drawing">
     <value>23, 123</value>
@@ -671,14 +556,8 @@
   <data name="Label19.Text" xml:space="preserve">
     <value>border table:</value>
   </data>
-  <data name="Label19.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ttable_tow_td.Location" type="System.Drawing.Point, System.Drawing">
     <value>110, 149</value>
-  </data>
-  <data name="Ttable_tow_td.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label20.Location" type="System.Drawing.Point, System.Drawing">
     <value>23, 151</value>
@@ -689,14 +568,8 @@
   <data name="Label20.Text" xml:space="preserve">
     <value>border grid:</value>
   </data>
-  <data name="Label20.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Ttr_border.Location" type="System.Drawing.Point, System.Drawing">
     <value>110, 175</value>
-  </data>
-  <data name="Ttr_border.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label22.Location" type="System.Drawing.Point, System.Drawing">
     <value>23, 176</value>
@@ -707,9 +580,6 @@
   <data name="Label22.Text" xml:space="preserve">
     <value>border line:</value>
   </data>
-  <data name="Label22.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Btable_tow_font.Location" type="System.Drawing.Point, System.Drawing">
     <value>610, 237</value>
   </data>
@@ -719,14 +589,8 @@
   <data name="TabPage3.Text" xml:space="preserve">
     <value>Tables</value>
   </data>
-  <data name="TabPage3.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tp_tow_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>110, 88</value>
-  </data>
-  <data name="Tp_tow_bold.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label21.Location" type="System.Drawing.Point, System.Drawing">
     <value>9, 86</value>
@@ -737,14 +601,8 @@
   <data name="Label21.Text" xml:space="preserve">
     <value>font bold :</value>
   </data>
-  <data name="Label21.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_thre_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>109, 31</value>
-  </data>
-  <data name="Tdiv_thre_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label24.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 31</value>
@@ -755,14 +613,8 @@
   <data name="Label24.Text" xml:space="preserve">
     <value>padding top :</value>
   </data>
-  <data name="Label24.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_thre_bottom.Location" type="System.Drawing.Point, System.Drawing">
     <value>109, 57</value>
-  </data>
-  <data name="Tdiv_thre_bottom.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Bp_tow_font.Location" type="System.Drawing.Point, System.Drawing">
     <value>610, 227</value>
@@ -779,16 +631,9 @@
   <data name="Label27.Text" xml:space="preserve">
     <value>padding bottom:</value>
   </data>
-  <data name="Label27.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="TabPage4.Text" xml:space="preserve">
     <value>Totals summary</value>
   </data>
-  <data name="TabPage4.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="Label29.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -797,9 +642,6 @@
   </data>
   <data name="Label29.Text" xml:space="preserve">
     <value>border line :</value>
-  </data>
-  <data name="Label29.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label26.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -810,9 +652,6 @@
   <data name="Label26.Text" xml:space="preserve">
     <value>line bold:</value>
   </data>
-  <data name="Label26.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label25.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -821,9 +660,6 @@
   </data>
   <data name="Label25.Text" xml:space="preserve">
     <value>distance between lines:</value>
-  </data>
-  <data name="Label25.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label34.Location" type="System.Drawing.Point, System.Drawing">
     <value>83, 38</value>
@@ -834,32 +670,17 @@
   <data name="Label34.Text" xml:space="preserve">
     <value>top height :</value>
   </data>
-  <data name="Label34.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="border_div_four.Location" type="System.Drawing.Point, System.Drawing">
     <value>169, 139</value>
-  </data>
-  <data name="border_div_four.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Th5_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>169, 111</value>
   </data>
-  <data name="Th5_bold.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_four_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>169, 33</value>
   </data>
-  <data name="Tdiv_four_top.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Timg_footer_hieght.Location" type="System.Drawing.Point, System.Drawing">
     <value>169, 85</value>
-  </data>
-  <data name="Timg_footer_hieght.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label28.Location" type="System.Drawing.Point, System.Drawing">
     <value>73, 88</value>
@@ -870,14 +691,8 @@
   <data name="Label28.Text" xml:space="preserve">
     <value>height photo:</value>
   </data>
-  <data name="Label28.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Th5_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>169, 59</value>
-  </data>
-  <data name="Th5_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Bh5_font.Location" type="System.Drawing.Point, System.Drawing">
     <value>606, 240</value>
@@ -885,32 +700,17 @@
   <data name="Bh5_font.Text" xml:space="preserve">
     <value>font </value>
   </data>
-  <data name="Bh5_font.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="TabPage5.Text" xml:space="preserve">
     <value>Reporter footer</value>
   </data>
-  <data name="TabPage5.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="TabControl1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label23.Text" xml:space="preserve">
     <value>font preview</value>
-  </data>
-  <data name="Label23.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Button9.Location" type="System.Drawing.Point, System.Drawing">
     <value>534, 432</value>
   </data>
   <data name="Button9.Text" xml:space="preserve">
     <value>save</value>
-  </data>
-  <data name="Button9.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -3068,10 +2868,6 @@
         wAEAAMADAACAPwAAgH8AAOB/AAD//wAA
 </value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>Inherit</value>
-  </data>
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Inherit</value>
   </data>
@@ -3080,8 +2876,5 @@
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>format printing</value>
-  </data>
-  <data name="$this.ToolTip" xml:space="preserve">
-    <value />
   </data>
 </root>

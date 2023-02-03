@@ -107,6 +107,7 @@ Partial Class Form2
         Me.Label23 = New System.Windows.Forms.Label()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.Button9 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox4.SuspendLayout()
         Me.TabControl1.SuspendLayout()
@@ -452,6 +453,7 @@ Partial Class Form2
         resources.ApplyResources(Me.TabPage1, "TabPage1")
         Me.TabPage1.BackColor = System.Drawing.Color.Ivory
         Me.TabPage1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.TabPage1.Controls.Add(Me.Button1)
         Me.TabPage1.Controls.Add(Me.Bh4_font)
         Me.TabPage1.Controls.Add(Me.Th4_font_bold)
         Me.TabPage1.Controls.Add(Me.Label18)
@@ -774,6 +776,19 @@ Partial Class Form2
         Me.ToolTip1.SetToolTip(Me.Button9, resources.GetString("Button9.ToolTip"))
         Me.Button9.UseVisualStyleBackColor = False
         '
+        'Button1
+        '
+        resources.ApplyResources(Me.Button1, "Button1")
+        Me.Button1.BackColor = System.Drawing.Color.Ivory
+        Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.Button1.FlatAppearance.BorderColor = System.Drawing.Color.Ivory
+        Me.Button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Ivory
+        Me.Button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Ivory
+        Me.Button1.Image = Global.s_print.My.Resources.Resources.font_type
+        Me.Button1.Name = "Button1"
+        Me.ToolTip1.SetToolTip(Me.Button1, resources.GetString("Button1.ToolTip"))
+        Me.Button1.UseVisualStyleBackColor = False
+        '
         'Form2
         '
         resources.ApplyResources(Me, "$this")
@@ -890,4 +905,5 @@ Partial Class Form2
     Friend WithEvents Label29 As Label
     Friend WithEvents Label26 As Label
     Friend WithEvents Label25 As Label
+    Friend WithEvents Button1 As Button
 End Class

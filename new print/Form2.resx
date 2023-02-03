@@ -138,7 +138,7 @@
     <value>NoControl</value>
   </data>
   <data name="&gt;&gt;Label16.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>9</value>
   </data>
   <data name="GroupBox2.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -181,10 +181,10 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;Label17.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>14</value>
   </data>
-  <data name="&gt;&gt;TabPage1.Name" xml:space="preserve">
-    <value>TabPage1</value>
+  <data name="Label12.Text" xml:space="preserve">
+    <value>مسافه بين الاسطر :</value>
   </data>
   <data name="Bh4_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -192,35 +192,35 @@
   <data name="Tdiv_tow_bottom.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Timg_footer_hieght.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;Bh5_font.Parent" xml:space="preserve">
-    <value>TabPage5</value>
+  <data name="&gt;&gt;TabPage5.Parent" xml:space="preserve">
+    <value>TabControl1</value>
   </data>
   <data name="&gt;&gt;Btable_tow_font.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
   <data name="&gt;&gt;Ttable_one_height.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>12</value>
   </data>
   <data name="Cp_one_align.Items" xml:space="preserve">
     <value>right</value>
   </data>
-  <data name="&gt;&gt;border_div_four.Parent" xml:space="preserve">
-    <value>TabPage5</value>
+  <data name="&gt;&gt;Ttable_one_top.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
-  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="Label21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="&gt;&gt;Ttable_one_border.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>16</value>
   </data>
   <data name="&gt;&gt;Tp_one_font_bold.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;ColorDialog1.Name" xml:space="preserve">
-    <value>ColorDialog1</value>
+  <data name="&gt;&gt;Button1.Parent" xml:space="preserve">
+    <value>TabPage1</value>
+  </data>
+  <data name="&gt;&gt;Troot_padding.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Label28.Location" type="System.Drawing.Point, System.Drawing">
     <value>168, 30</value>
@@ -234,8 +234,8 @@
   <data name="&gt;&gt;Ttr_border.Name" xml:space="preserve">
     <value>Ttr_border</value>
   </data>
-  <data name="&gt;&gt;Btable_tow_font.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Th4_font_bold.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
   </data>
   <data name="Label7.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -245,6 +245,9 @@
   </data>
   <data name="Bp_tow_font.Size" type="System.Drawing.Size, System.Drawing">
     <value>54, 45</value>
+  </data>
+  <data name="Tdiv_tow_bottom.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 22</value>
   </data>
   <data name="Label31.ToolTip" xml:space="preserve">
     <value />
@@ -258,6 +261,9 @@
   <data name="Label6.Text" xml:space="preserve">
     <value>عرض الخط :</value>
   </data>
+  <data name="&gt;&gt;Label12.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
   <data name="TabPage2.Size" type="System.Drawing.Size, System.Drawing">
     <value>675, 290</value>
   </data>
@@ -267,11 +273,11 @@
   <data name="Th1_bottom.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
-  <data name="Troot_padding.Location" type="System.Drawing.Point, System.Drawing">
-    <value>334, 15</value>
+  <data name="&gt;&gt;Label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Ttable_one_border.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
-    <value>Center</value>
+  <data name="TabControl1.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="&gt;&gt;Timg_top_heigth.Parent" xml:space="preserve">
     <value>TabPage1</value>
@@ -285,17 +291,14 @@
   <data name="&gt;&gt;Tdiv_tow_top.Parent" xml:space="preserve">
     <value>GroupBox2</value>
   </data>
-  <data name="&gt;&gt;Bh5_font.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;Ttable_one_border.Parent" xml:space="preserve">
     <value>TabPage1</value>
   </data>
   <data name="&gt;&gt;Label24.Parent" xml:space="preserve">
     <value>TabPage4</value>
   </data>
-  <data name="&gt;&gt;Label25.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="GroupBox4.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Label5.Text" xml:space="preserve">
     <value>عرض الخط :</value>
@@ -315,14 +318,14 @@
   <data name="Btr_color.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="Label14.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="Timg_footer_hieght.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="GroupBox2.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Button9.Text" xml:space="preserve">
-    <value>حــــفـــــظ</value>
+  <data name="Ttable_one_top.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;Bh1_font.Name" xml:space="preserve">
     <value>Bh1_font</value>
@@ -336,14 +339,11 @@
   <data name="&gt;&gt;Label4.Name" xml:space="preserve">
     <value>Label4</value>
   </data>
-  <data name="&gt;&gt;Label12.ZOrder" xml:space="preserve">
-    <value>10</value>
+  <data name="Button9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 45</value>
   </data>
-  <data name="&gt;&gt;Label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Th5_top.ToolTip" xml:space="preserve">
-    <value />
+  <data name="TabPage5.Text" xml:space="preserve">
+    <value>تــزيــل الـتـقـريــر</value>
   </data>
   <data name="&gt;&gt;Label25.Parent" xml:space="preserve">
     <value>TabPage5</value>
@@ -351,8 +351,8 @@
   <data name="Th1_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
   </data>
-  <data name="Label19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 14</value>
+  <data name="TabPage3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
   </data>
   <data name="TabPage5.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 34</value>
@@ -382,10 +382,7 @@
     <value>Tahoma, 9pt</value>
   </data>
   <data name="&gt;&gt;Label13.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;Label23.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>5</value>
   </data>
   <data name="&gt;&gt;Bh1_font.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -402,8 +399,8 @@
   <data name="Bh4_font.Size" type="System.Drawing.Size, System.Drawing">
     <value>54, 45</value>
   </data>
-  <data name="Label4.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
+  <data name="Label30.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;Label7.Name" xml:space="preserve">
     <value>Label7</value>
@@ -423,9 +420,6 @@
   <data name="Label17.Text" xml:space="preserve">
     <value>عرض الشعار :</value>
   </data>
-  <data name="&gt;&gt;Label24.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="&gt;&gt;Label1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -433,7 +427,7 @@
     <value>0</value>
   </data>
   <data name="&gt;&gt;Label18.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="Label34.Size" type="System.Drawing.Size, System.Drawing">
     <value>106, 14</value>
@@ -457,7 +451,7 @@
     <value>651, 133</value>
   </data>
   <data name="&gt;&gt;Th4_font_bold.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="TabPage4.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 34</value>
@@ -483,8 +477,8 @@
   <data name="Btable_tow_font.ToolTip" xml:space="preserve">
     <value>تعديل نمط الخط في الجدول</value>
   </data>
-  <data name="&gt;&gt;Label19.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;Label29.Name" xml:space="preserve">
+    <value>Label29</value>
   </data>
   <data name="&gt;&gt;Label20.Parent" xml:space="preserve">
     <value>TabPage3</value>
@@ -499,7 +493,7 @@
     <value>140, 22</value>
   </data>
   <data name="&gt;&gt;Timg_log_width.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>13</value>
   </data>
   <data name="&gt;&gt;Tdiv_tow_top.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -507,8 +501,14 @@
   <data name="Ttable_one_top.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
+  <data name="Label11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="&gt;&gt;Bp_tow_font.Name" xml:space="preserve">
     <value>Bp_tow_font</value>
+  </data>
+  <data name="&gt;&gt;TabPage1.Parent" xml:space="preserve">
+    <value>TabControl1</value>
   </data>
   <data name="&gt;&gt;Tdiv_four_top.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -521,6 +521,9 @@
   </data>
   <data name="&gt;&gt;Troot_padding.ZOrder" xml:space="preserve">
     <value>6</value>
+  </data>
+  <data name="Ch1_align.Items2" xml:space="preserve">
+    <value>left</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form2</value>
@@ -549,14 +552,17 @@
   <data name="&gt;&gt;Label14.Name" xml:space="preserve">
     <value>Label14</value>
   </data>
-  <data name="&gt;&gt;GroupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;Timg_footer_hieght.Parent" xml:space="preserve">
+    <value>TabPage5</value>
   </data>
   <data name="GroupBox4.Size" type="System.Drawing.Size, System.Drawing">
     <value>648, 79</value>
   </data>
   <data name="Label27.ToolTip" xml:space="preserve">
     <value />
+  </data>
+  <data name="&gt;&gt;Bh4_font.Parent" xml:space="preserve">
+    <value>TabPage1</value>
   </data>
   <data name="Bp_tow_font.Location" type="System.Drawing.Point, System.Drawing">
     <value>22, 237</value>
@@ -571,7 +577,7 @@
     <value>Timg_footer_hieght</value>
   </data>
   <data name="&gt;&gt;Tdiv_one_top.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="Label22.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -579,11 +585,14 @@
   <data name="&gt;&gt;Label27.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Label17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="&gt;&gt;Label26.Parent" xml:space="preserve">
+    <value>TabPage5</value>
   </data>
   <data name="Bp_tow_font.Text" xml:space="preserve">
     <value> </value>
+  </data>
+  <data name="&gt;&gt;Label25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;Label15.Name" xml:space="preserve">
     <value>Label15</value>
@@ -594,8 +603,8 @@
   <data name="Label4.Text" xml:space="preserve">
     <value>مسافه من الاسفل :</value>
   </data>
-  <data name="&gt;&gt;Timg_top_heigth.Name" xml:space="preserve">
-    <value>Timg_top_heigth</value>
+  <data name="Label10.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
     <value>GroupBox1</value>
@@ -605,6 +614,9 @@
   </data>
   <data name="Th1_bottom.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
+  </data>
+  <data name="&gt;&gt;Button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Label6.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -617,9 +629,6 @@
   </data>
   <data name="&gt;&gt;Label22.Parent" xml:space="preserve">
     <value>TabPage3</value>
-  </data>
-  <data name="Label17.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
   </data>
   <data name="Label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -639,26 +648,20 @@
   <data name="TabPage1.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 34</value>
   </data>
-  <data name="Tp_one_font_bold.Location" type="System.Drawing.Point, System.Drawing">
-    <value>334, 75</value>
+  <data name="Cp_one_align.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 22</value>
   </data>
   <data name="Tdiv_one_top.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
   </data>
-  <data name="Bh5_font.Text" xml:space="preserve">
-    <value>  </value>
-  </data>
-  <data name="Ttable_one_top.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Label12.Text" xml:space="preserve">
-    <value>مسافه بين الاسطر :</value>
+  <data name="&gt;&gt;Bh5_font.Name" xml:space="preserve">
+    <value>Bh5_font</value>
   </data>
   <data name="Label27.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
   </data>
-  <data name="Th4_font_bold.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
+  <data name="Label34.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;GroupBox2.Name" xml:space="preserve">
     <value>GroupBox2</value>
@@ -669,6 +672,9 @@
   <data name="&gt;&gt;Tdiv_one_top.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Bh5_font.Text" xml:space="preserve">
+    <value>  </value>
+  </data>
   <data name="&gt;&gt;Label4.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
@@ -677,9 +683,6 @@
   </data>
   <data name="&gt;&gt;Label7.ZOrder" xml:space="preserve">
     <value>3</value>
-  </data>
-  <data name="&gt;&gt;Th1_bottom.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Ttable_tow_border.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
@@ -696,8 +699,8 @@
   <data name="&gt;&gt;Th5_top.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;TabPage1.Parent" xml:space="preserve">
-    <value>TabControl1</value>
+  <data name="&gt;&gt;Button9.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;Label22.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -711,11 +714,11 @@
   <data name="Label16.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Th4_font_bold.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
-    <value>Center</value>
+  <data name="&gt;&gt;Th1_font_bold.Name" xml:space="preserve">
+    <value>Th1_font_bold</value>
   </data>
-  <data name="&gt;&gt;Btable_tow_font.Parent" xml:space="preserve">
-    <value>TabPage3</value>
+  <data name="&gt;&gt;Bh5_font.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Label17.Location" type="System.Drawing.Point, System.Drawing">
     <value>490, 134</value>
@@ -731,6 +734,9 @@
   </data>
   <data name="Ttable_one_height.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
+  </data>
+  <data name="Timg_top_heigth.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
   </data>
   <data name="&gt;&gt;TabControl1.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -753,29 +759,26 @@
   <data name="Label12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="Bh1_font.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="Bh5_font.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 237</value>
   </data>
   <data name="Label34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="Label21.TabIndex" type="System.Int32, mscorlib">
-    <value>38</value>
+  <data name="border_div_four.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
   </data>
-  <data name="&gt;&gt;Cp_one_align.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;Button9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="&gt;&gt;Label26.Parent" xml:space="preserve">
-    <value>TabPage5</value>
+  <data name="&gt;&gt;Th1_bottom.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;Ttable_one_border.Name" xml:space="preserve">
     <value>Ttable_one_border</value>
   </data>
-  <data name="Timg_top_heigth.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
+  <data name="&gt;&gt;Label23.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;Label16.Name" xml:space="preserve">
     <value>Label16</value>
@@ -804,14 +807,14 @@
   <data name="&gt;&gt;Ttable_tow_border.Parent" xml:space="preserve">
     <value>TabPage3</value>
   </data>
+  <data name="Label12.ToolTip" xml:space="preserve">
+    <value />
+  </data>
   <data name="&gt;&gt;Label18.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;Label3.Parent" xml:space="preserve">
     <value>GroupBox1</value>
-  </data>
-  <data name="&gt;&gt;Button9.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <data name="Th4_top.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -822,8 +825,8 @@
   <data name="Bh5_font.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="TabPage2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 34</value>
+  <data name="&gt;&gt;Label28.Parent" xml:space="preserve">
+    <value>TabPage5</value>
   </data>
   <data name="&gt;&gt;Label29.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -843,6 +846,9 @@
   <data name="Label7.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
+  <data name="&gt;&gt;Button1.Name" xml:space="preserve">
+    <value>Button1</value>
+  </data>
   <data name="&gt;&gt;TabPage2.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
@@ -858,6 +864,9 @@
   <data name="&gt;&gt;Ch1_align.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="&gt;&gt;Timg_footer_hieght.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="Label24.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -867,17 +876,14 @@
   <data name="Label10.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
-  <data name="Label3.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="Tdiv_thre_top.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
   </data>
-  <data name="&gt;&gt;Troot_padding.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Button9.Text" xml:space="preserve">
+    <value>حــــفـــــظ</value>
   </data>
-  <data name="GroupBox4.ToolTip" xml:space="preserve">
-    <value />
+  <data name="&gt;&gt;Button9.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="Tdiv_thre_bottom.TabIndex" type="System.Int32, mscorlib">
     <value>27</value>
@@ -894,6 +900,9 @@
   <data name="Label7.Text" xml:space="preserve">
     <value>محاذاة النص :</value>
   </data>
+  <data name="Button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>375, 44</value>
+  </data>
   <data name="Label15.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
@@ -909,11 +918,8 @@
   <data name="border_div_four.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
   </data>
-  <data name="Cp_one_align.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 22</value>
-  </data>
-  <data name="TabPage5.Text" xml:space="preserve">
-    <value>تــزيــل الـتـقـريــر</value>
+  <data name="Button9.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Cp_one_align.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
@@ -927,20 +933,17 @@
   <data name="TabPage5.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Label15.ToolTip" xml:space="preserve">
-    <value />
+  <data name="&gt;&gt;Button1.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="Label5.ToolTip" xml:space="preserve">
-    <value />
+  <data name="Label21.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
   </data>
   <data name="&gt;&gt;Label12.Name" xml:space="preserve">
     <value>Label12</value>
   </data>
   <data name="Bp_one_font.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
-  </data>
-  <data name="Button9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 45</value>
   </data>
   <data name="Label31.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -950,6 +953,9 @@
   </data>
   <data name="Label9.Size" type="System.Drawing.Size, System.Drawing">
     <value>106, 14</value>
+  </data>
+  <data name="&gt;&gt;Label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;Bth_color.Name" xml:space="preserve">
     <value>Bth_color</value>
@@ -1034,11 +1040,11 @@
   <data name="Ttr_border.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 91</value>
   </data>
-  <data name="Label12.ToolTip" xml:space="preserve">
+  <data name="Label19.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;Bp_tow_font.Parent" xml:space="preserve">
+    <value>TabPage4</value>
   </data>
   <data name="Label13.Location" type="System.Drawing.Point, System.Drawing">
     <value>493, 19</value>
@@ -1046,14 +1052,8 @@
   <data name="&gt;&gt;Label31.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Label34.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;TabPage1.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="&gt;&gt;Ch1_align.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;Th4_top.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1097,26 +1097,20 @@
   <data name="&gt;&gt;Label19.Name" xml:space="preserve">
     <value>Label19</value>
   </data>
-  <data name="&gt;&gt;Bp_tow_font.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="&gt;&gt;TabPage3.Parent" xml:space="preserve">
+    <value>TabControl1</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
   </data>
-  <data name="&gt;&gt;Timg_log_heigth.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="Label23.Text" xml:space="preserve">
-    <value>مــعــايـــنــــة الــخـــــــط</value>
+  <data name="&gt;&gt;Btr_color.Name" xml:space="preserve">
+    <value>Btr_color</value>
   </data>
   <data name="&gt;&gt;Label11.Parent" xml:space="preserve">
     <value>GroupBox4</value>
   </data>
   <data name="Label11.Text" xml:space="preserve">
     <value>الـهـــامـــش الـعــلــــوي :</value>
-  </data>
-  <data name="Label25.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label30.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 14</value>
@@ -1198,14 +1192,8 @@
   <data name="Label29.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Btr_color.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;Btr_color.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="TabPage4.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="&gt;&gt;TabPage4.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1216,11 +1204,14 @@
   <data name="&gt;&gt;Tdiv_one_top.Name" xml:space="preserve">
     <value>Tdiv_one_top</value>
   </data>
-  <data name="Label21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="Btr_color.ToolTip" xml:space="preserve">
+    <value />
   </data>
-  <data name="Label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 14</value>
+  <data name="&gt;&gt;Label19.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Ch1_align.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;Ttable_one_height.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1246,9 +1237,6 @@
   <data name="Label25.TabIndex" type="System.Int32, mscorlib">
     <value>49</value>
   </data>
-  <data name="&gt;&gt;Bp_tow_font.Parent" xml:space="preserve">
-    <value>TabPage4</value>
-  </data>
   <data name="TabPage3.Text" xml:space="preserve">
     <value>الــجـــــدول</value>
   </data>
@@ -1267,8 +1255,8 @@
   <data name="Label30.Text" xml:space="preserve">
     <value>نســبة اظــهـــار الــعــرض :</value>
   </data>
-  <data name="Label14.Text" xml:space="preserve">
-    <value>ارتفاع الصوره :</value>
+  <data name="Label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>475, 52</value>
   </data>
   <data name="&gt;&gt;Button9.Name" xml:space="preserve">
     <value>Button9</value>
@@ -1278,6 +1266,9 @@
   </data>
   <data name="&gt;&gt;Label14.Parent" xml:space="preserve">
     <value>TabPage1</value>
+  </data>
+  <data name="&gt;&gt;Timg_top_heigth.Name" xml:space="preserve">
+    <value>Timg_top_heigth</value>
   </data>
   <data name="Label15.Location" type="System.Drawing.Point, System.Drawing">
     <value>492, 75</value>
@@ -1291,11 +1282,17 @@
   <data name="&gt;&gt;Th4_font_bold.Name" xml:space="preserve">
     <value>Th4_font_bold</value>
   </data>
-  <data name="TabPage3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 34</value>
+  <data name="Tdiv_one_top.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;Tpage_width.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Tdiv_four_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;Btr_color.Parent" xml:space="preserve">
+    <value>TabPage3</value>
   </data>
   <data name="&gt;&gt;Label1.Name" xml:space="preserve">
     <value>Label1</value>
@@ -1303,8 +1300,8 @@
   <data name="Button9.Location" type="System.Drawing.Point, System.Drawing">
     <value>524, 432</value>
   </data>
-  <data name="&gt;&gt;Timg_footer_hieght.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="Label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1348,6 +1345,9 @@
   <data name="&gt;&gt;TabPage4.Name" xml:space="preserve">
     <value>TabPage4</value>
   </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
   <data name="&gt;&gt;Label17.Parent" xml:space="preserve">
     <value>TabPage1</value>
   </data>
@@ -1372,8 +1372,8 @@
   <data name="Bh4_font.ToolTip" xml:space="preserve">
     <value>تعديل خط رأس التقرير</value>
   </data>
-  <data name="&gt;&gt;Bh4_font.Parent" xml:space="preserve">
-    <value>TabPage1</value>
+  <data name="Label17.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
   </data>
   <data name="Label27.Size" type="System.Drawing.Size, System.Drawing">
     <value>110, 14</value>
@@ -1396,11 +1396,8 @@
   <data name="Tp_tow_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 112</value>
   </data>
-  <data name="Tdiv_tow_bottom.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 22</value>
-  </data>
-  <data name="Label30.ToolTip" xml:space="preserve">
-    <value />
+  <data name="&gt;&gt;Label28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Label27.Text" xml:space="preserve">
     <value>مسافه من الاسفل :</value>
@@ -1420,8 +1417,8 @@
   <data name="Tdiv_one_top.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
   </data>
-  <data name="&gt;&gt;Label29.Name" xml:space="preserve">
-    <value>Label29</value>
+  <data name="Ch1_align.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
   <data name="&gt;&gt;Ttable_tow_border.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1441,20 +1438,20 @@
   <data name="&gt;&gt;Th1_font_bold.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;Label18.Parent" xml:space="preserve">
-    <value>TabPage1</value>
+  <data name="Label23.Text" xml:space="preserve">
+    <value>مــعــايـــنــــة الــخـــــــط</value>
+  </data>
+  <data name="Btable_tow_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="&gt;&gt;Bth_color.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Bh5_font.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;Timg_top_heigth.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
-  <data name="Btable_tow_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="&gt;&gt;Label10.Parent" xml:space="preserve">
+    <value>TabPage1</value>
   </data>
   <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 14</value>
@@ -1465,14 +1462,14 @@
   <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
+  <data name="&gt;&gt;Btr_color.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
   </data>
   <data name="&gt;&gt;Ttable_one_border.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Ttable_one_top.ZOrder" xml:space="preserve">
-    <value>4</value>
   </data>
   <data name="&gt;&gt;Label5.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1483,8 +1480,8 @@
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>7, 14</value>
   </data>
-  <data name="Ttr_border.ToolTip" xml:space="preserve">
-    <value />
+  <data name="TabPage3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 34</value>
   </data>
   <data name="Tdiv_four_top.ToolTip" xml:space="preserve">
     <value />
@@ -1507,8 +1504,8 @@
   <data name="Ttable_tow_border.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Ch1_align.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="Label22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 14</value>
   </data>
   <data name="Bth_color.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1525,17 +1522,14 @@
   <data name="Label8.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <data name="Label11.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Label22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 14</value>
+  <data name="&gt;&gt;Tdiv_four_top.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Th1_font_bold.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
   </data>
-  <data name="Ttable_one_top.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 22</value>
+  <data name="Bh5_font.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Th5_top.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
@@ -1548,6 +1542,9 @@
   </data>
   <data name="Label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;Btable_tow_font.Parent" xml:space="preserve">
+    <value>TabPage3</value>
   </data>
   <data name="&gt;&gt;GroupBox4.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1563,9 +1560,6 @@
   </data>
   <data name="TabControl1.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
-  </data>
-  <data name="&gt;&gt;Label10.Parent" xml:space="preserve">
-    <value>TabPage1</value>
   </data>
   <data name="&gt;&gt;Th4_top.Name" xml:space="preserve">
     <value>Th4_top</value>
@@ -1597,8 +1591,8 @@
   <data name="Ttable_one_border.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
-    <value>6</value>
+  <data name="Label3.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Tdiv_thre_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 45</value>
@@ -1612,8 +1606,8 @@
   <data name="&gt;&gt;ToolTip1.Name" xml:space="preserve">
     <value>ToolTip1</value>
   </data>
-  <data name="&gt;&gt;Label31.Name" xml:space="preserve">
-    <value>Label31</value>
+  <data name="&gt;&gt;ColorDialog1.Name" xml:space="preserve">
+    <value>ColorDialog1</value>
   </data>
   <data name="&gt;&gt;Th1_top.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -1651,11 +1645,8 @@
   <data name="Label18.Text" xml:space="preserve">
     <value>عرض الخط :</value>
   </data>
-  <data name="&gt;&gt;Btr_color.Parent" xml:space="preserve">
-    <value>TabPage3</value>
-  </data>
-  <data name="Label6.ToolTip" xml:space="preserve">
-    <value />
+  <data name="Label29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="Tdiv_thre_bottom.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
@@ -1678,14 +1669,8 @@
   <data name="&gt;&gt;Bth_color.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;Label12.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;Label2.Name" xml:space="preserve">
     <value>Label2</value>
-  </data>
-  <data name="Label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>475, 52</value>
   </data>
   <data name="&gt;&gt;Th1_bottom.Parent" xml:space="preserve">
     <value>GroupBox1</value>
@@ -1695,9 +1680,6 @@
   </data>
   <data name="&gt;&gt;Label21.Parent" xml:space="preserve">
     <value>TabPage4</value>
-  </data>
-  <data name="Bh5_font.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 237</value>
   </data>
   <data name="Label2.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1713,6 +1695,9 @@
   </data>
   <data name="Label27.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="&gt;&gt;Cp_one_align.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="GroupBox1.ToolTip" xml:space="preserve">
     <value />
@@ -1737,9 +1722,6 @@
   </data>
   <data name="&gt;&gt;Th5_bold.Parent" xml:space="preserve">
     <value>TabPage5</value>
-  </data>
-  <data name="&gt;&gt;Button9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Tdiv_thre_top.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
@@ -1768,11 +1750,14 @@
   <data name="Cp_one_align.Items3" xml:space="preserve">
     <value>      </value>
   </data>
+  <data name="Ttable_one_border.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
   <data name="Label26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="&gt;&gt;Btr_color.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Label25.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Label24.ToolTip" xml:space="preserve">
     <value />
@@ -1795,20 +1780,17 @@
   <data name="&gt;&gt;TabPage2.Parent" xml:space="preserve">
     <value>TabControl1</value>
   </data>
-  <data name="&gt;&gt;Label14.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="Label3.Location" type="System.Drawing.Point, System.Drawing">
     <value>475, 24</value>
   </data>
   <data name="Ttable_one_border.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
   </data>
-  <data name="Bh5_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="Label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 14</value>
   </data>
-  <data name="Label29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="&gt;&gt;Label18.Parent" xml:space="preserve">
+    <value>TabPage1</value>
   </data>
   <data name="Bp_one_font.Text" xml:space="preserve">
     <value>  </value>
@@ -1828,11 +1810,17 @@
   <data name="&gt;&gt;TabControl1.Name" xml:space="preserve">
     <value>TabControl1</value>
   </data>
-  <data name="Label29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>83, 114</value>
+  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Bh5_font.ZOrder" xml:space="preserve">
+    <value>10</value>
   </data>
   <data name="Ttable_one_height.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 75</value>
+  </data>
+  <data name="Label29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 114</value>
   </data>
   <data name="Bth_color.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1840,11 +1828,11 @@
   <data name="TabPage2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
+  <data name="&gt;&gt;Label31.Name" xml:space="preserve">
+    <value>Label31</value>
+  </data>
   <data name="&gt;&gt;Label19.Parent" xml:space="preserve">
     <value>TabPage3</value>
-  </data>
-  <data name="&gt;&gt;Tdiv_four_top.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Label9.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1861,8 +1849,11 @@
   <data name="Th5_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 126</value>
   </data>
-  <data name="Tdiv_four_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
-    <value>Center</value>
+  <data name="Bh5_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label6.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Button9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1872,9 +1863,6 @@
   </data>
   <data name="Btable_tow_font.Location" type="System.Drawing.Point, System.Drawing">
     <value>22, 237</value>
-  </data>
-  <data name="Tdiv_one_top.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="&gt;&gt;Th4_font_bold.Parent" xml:space="preserve">
     <value>TabPage1</value>
@@ -1897,6 +1885,9 @@
   <data name="Th1_font_bold.ToolTip" xml:space="preserve">
     <value />
   </data>
+  <data name="&gt;&gt;Bh5_font.Parent" xml:space="preserve">
+    <value>TabPage5</value>
+  </data>
   <data name="Label26.Location" type="System.Drawing.Point, System.Drawing">
     <value>100, 140</value>
   </data>
@@ -1906,14 +1897,20 @@
   <data name="&gt;&gt;TabControl1.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;Label28.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;Timg_log_heigth.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
-  <data name="border_div_four.TabIndex" type="System.Int32, mscorlib">
-    <value>41</value>
+  <data name="Label8.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;Label24.Name" xml:space="preserve">
+    <value>Label24</value>
   </data>
   <data name="Label10.Text" xml:space="preserve">
     <value>ثخن خط الاحاطة :</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>GroupBox4</value>
   </data>
   <data name="TabPage3.ToolTip" xml:space="preserve">
     <value />
@@ -1930,17 +1927,11 @@
   <data name="Tdiv_tow_bottom.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
   </data>
-  <data name="&gt;&gt;Label28.Parent" xml:space="preserve">
-    <value>TabPage5</value>
-  </data>
   <data name="Tpage_width.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
   </data>
-  <data name="TabControl1.RightToLeftLayout" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;Tp_one_font_bold.Parent" xml:space="preserve">
-    <value>GroupBox2</value>
+  <data name="&gt;&gt;Label24.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="Label1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1969,17 +1960,17 @@
   <data name="&gt;&gt;Label25.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;Bh5_font.Name" xml:space="preserve">
-    <value>Bh5_font</value>
-  </data>
   <data name="&gt;&gt;Label9.ZOrder" xml:space="preserve">
     <value>7</value>
+  </data>
+  <data name="Timg_log_heigth.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
   </data>
   <data name="Label9.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
-  <data name="Label25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="&gt;&gt;GroupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Tdiv_one_top.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 19</value>
@@ -2002,6 +1993,9 @@
   <data name="&gt;&gt;Tp_tow_bold.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Label14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="TabPage5.Size" type="System.Drawing.Size, System.Drawing">
     <value>675, 290</value>
   </data>
@@ -2016,9 +2010,6 @@
   </data>
   <data name="&gt;&gt;Tdiv_thre_bottom.Parent" xml:space="preserve">
     <value>TabPage4</value>
-  </data>
-  <data name="&gt;&gt;Btr_color.Name" xml:space="preserve">
-    <value>Btr_color</value>
   </data>
   <data name="Bh1_font.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 82</value>
@@ -2040,9 +2031,6 @@
   </data>
   <data name="&gt;&gt;Ttable_one_top.Parent" xml:space="preserve">
     <value>GroupBox4</value>
-  </data>
-  <data name="&gt;&gt;TabPage5.Parent" xml:space="preserve">
-    <value>TabControl1</value>
   </data>
   <data name="Timg_log_heigth.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
@@ -2071,8 +2059,8 @@
   <data name="Ttable_tow_td.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 63</value>
   </data>
-  <data name="Label9.Text" xml:space="preserve">
-    <value>مسافه من الاعلى :</value>
+  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="Tp_tow_bold.TabIndex" type="System.Int32, mscorlib">
     <value>39</value>
@@ -2089,8 +2077,8 @@
   <data name="Ttable_tow_td.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
   </data>
-  <data name="Timg_log_heigth.TabIndex" type="System.Int32, mscorlib">
-    <value>20</value>
+  <data name="Th5_top.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Tp_one_font_bold.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
@@ -2112,6 +2100,9 @@
   </data>
   <data name="Label30.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
+  </data>
+  <data name="&gt;&gt;Tp_one_font_bold.Parent" xml:space="preserve">
+    <value>GroupBox2</value>
   </data>
   <data name="Label11.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -2140,26 +2131,23 @@
   <data name="Label21.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;Bh5_font.ZOrder" xml:space="preserve">
-    <value>10</value>
+  <data name="Ttable_one_top.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 22</value>
   </data>
   <data name="&gt;&gt;Label6.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Button9.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="&gt;&gt;Label21.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="&gt;&gt;Th1_font_bold.Name" xml:space="preserve">
-    <value>Th1_font_bold</value>
   </data>
   <data name="&gt;&gt;Tdiv_thre_top.Parent" xml:space="preserve">
     <value>TabPage4</value>
   </data>
   <data name="Th4_font_bold.ToolTip" xml:space="preserve">
     <value />
+  </data>
+  <data name="&gt;&gt;Btable_tow_font.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Label7.ToolTip" xml:space="preserve">
     <value />
@@ -4326,6 +4314,9 @@
   <data name="&gt;&gt;Timg_log_width.Name" xml:space="preserve">
     <value>Timg_log_width</value>
   </data>
+  <data name="Label31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>19, 14</value>
+  </data>
   <data name="Label31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -4341,11 +4332,14 @@
   <data name="&gt;&gt;Label2.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Bh1_font.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
   <data name="&gt;&gt;Tdiv_tow_bottom.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="Bh4_font.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 237</value>
+  <data name="Label25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
     <value>TabPage2</value>
@@ -4358,9 +4352,6 @@
   </data>
   <data name="Tdiv_tow_bottom.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
-  </data>
-  <data name="&gt;&gt;Timg_footer_hieght.Parent" xml:space="preserve">
-    <value>TabPage5</value>
   </data>
   <data name="&gt;&gt;Label7.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4422,14 +4413,14 @@
   <data name="Th4_font_bold.Location" type="System.Drawing.Point, System.Drawing">
     <value>347, 187</value>
   </data>
+  <data name="Troot_padding.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 15</value>
+  </data>
   <data name="Label10.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="Label20.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
-  </data>
-  <data name="Th5_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
-    <value>Center</value>
   </data>
   <data name="&gt;&gt;Th5_top.Parent" xml:space="preserve">
     <value>TabPage5</value>
@@ -4479,7 +4470,7 @@
   <data name="Label34.Location" type="System.Drawing.Point, System.Drawing">
     <value>493, 45</value>
   </data>
-  <data name="Label10.ToolTip" xml:space="preserve">
+  <data name="Ttr_border.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="Tdiv_tow_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
@@ -4490,6 +4481,9 @@
   </data>
   <data name="Btable_tow_font.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
+  </data>
+  <data name="Label4.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
   </data>
   <data name="TabPage1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
@@ -4502,6 +4496,9 @@
   </data>
   <data name="Button9.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
+  </data>
+  <data name="Tp_one_font_bold.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 75</value>
   </data>
   <data name="&gt;&gt;ToolTip1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4536,11 +4533,14 @@
   <data name="Bth_color.ToolTip" xml:space="preserve">
     <value />
   </data>
+  <data name="Th4_font_bold.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
   <data name="Bth_color.Text" xml:space="preserve">
     <value>لــون  الرأس  Header </value>
   </data>
-  <data name="&gt;&gt;TabPage3.Parent" xml:space="preserve">
-    <value>TabControl1</value>
+  <data name="TabPage4.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Th1_top.ToolTip" xml:space="preserve">
     <value />
@@ -4551,8 +4551,8 @@
   <data name="&gt;&gt;Label30.Parent" xml:space="preserve">
     <value>GroupBox4</value>
   </data>
-  <data name="Ch1_align.Items2" xml:space="preserve">
-    <value>left</value>
+  <data name="Label5.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="Th4_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
@@ -4563,11 +4563,14 @@
   <data name="&gt;&gt;TabPage2.Name" xml:space="preserve">
     <value>TabPage2</value>
   </data>
+  <data name="&gt;&gt;border_div_four.Parent" xml:space="preserve">
+    <value>TabPage5</value>
+  </data>
+  <data name="Button1.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
   <data name="Label7.Size" type="System.Drawing.Size, System.Drawing">
     <value>76, 14</value>
-  </data>
-  <data name="Button9.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4583,6 +4586,9 @@
   </data>
   <data name="Label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="Bh4_font.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 237</value>
   </data>
   <data name="Timg_log_heigth.ToolTip" xml:space="preserve">
     <value />
@@ -4602,8 +4608,8 @@
   <data name="Button9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
-    <value>GroupBox4</value>
+  <data name="Label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="&gt;&gt;Timg_top_heigth.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4614,14 +4620,11 @@
   <data name="&gt;&gt;Label14.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Label8.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;TabPage1.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Th4_font_bold.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 22</value>
+  <data name="TabPage2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 34</value>
   </data>
   <data name="Label34.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -4653,6 +4656,9 @@
   <data name="&gt;&gt;Label15.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Label14.Text" xml:space="preserve">
+    <value>ارتفاع الصوره :</value>
+  </data>
   <data name="Label14.Size" type="System.Drawing.Size, System.Drawing">
     <value>76, 14</value>
   </data>
@@ -4665,8 +4671,8 @@
   <data name="Bp_tow_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="Label4.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;Label14.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
   <data name="Label16.Text" xml:space="preserve">
     <value>ارتفاع الشعار :</value>
@@ -4683,8 +4689,11 @@
   <data name="Label13.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="Label31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>19, 14</value>
+  <data name="&gt;&gt;TabPage1.Name" xml:space="preserve">
+    <value>TabPage1</value>
+  </data>
+  <data name="Label15.ToolTip" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;FontDialog1.Type" xml:space="preserve">
     <value>System.Windows.Forms.FontDialog, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4695,8 +4704,8 @@
   <data name="Btr_color.Location" type="System.Drawing.Point, System.Drawing">
     <value>22, 125</value>
   </data>
-  <data name="&gt;&gt;Label24.Name" xml:space="preserve">
-    <value>Label24</value>
+  <data name="Th5_top.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
   <data name="Bp_one_font.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4705,7 +4714,10 @@
     <value>TabPage1</value>
   </data>
   <data name="&gt;&gt;Label15.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>15</value>
+  </data>
+  <data name="Th4_font_bold.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 22</value>
   </data>
   <data name="&gt;&gt;TabPage4.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -4722,11 +4734,14 @@
   <data name="Th1_top.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
   </data>
+  <data name="Label26.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
   <data name="Label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>106, 14</value>
   </data>
   <data name="&gt;&gt;Bh4_font.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="&gt;&gt;Label34.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -4765,7 +4780,10 @@
     <value>NoControl</value>
   </data>
   <data name="&gt;&gt;Th4_top.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;Bp_tow_font.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="Label12.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -4782,6 +4800,12 @@
   <data name="border_div_four.ToolTip" xml:space="preserve">
     <value />
   </data>
+  <data name="Label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 14</value>
+  </data>
+  <data name="Label17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Cp_one_align.Items2" xml:space="preserve">
     <value>left</value>
   </data>
@@ -4797,9 +4821,6 @@
   <data name="&gt;&gt;Th4_font_bold.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Label23.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="&gt;&gt;Label11.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -4812,6 +4833,9 @@
   <data name="Label13.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
+  <data name="Button1.ToolTip" xml:space="preserve">
+    <value>تعديل خط رأس التقرير</value>
+  </data>
   <data name="Ttable_tow_td.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Center</value>
   </data>
@@ -4819,16 +4843,13 @@
     <value>490, 163</value>
   </data>
   <data name="&gt;&gt;Label10.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>17</value>
   </data>
-  <data name="Label26.TabIndex" type="System.Int32, mscorlib">
-    <value>50</value>
+  <data name="&gt;&gt;Label23.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="Label19.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
-  </data>
-  <data name="Label19.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="Label8.Location" type="System.Drawing.Point, System.Drawing">
     <value>476, 54</value>
@@ -4875,8 +4896,8 @@
   <data name="Th5_bold.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
   </data>
-  <data name="TabPage3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
+  <data name="Label9.Text" xml:space="preserve">
+    <value>مسافه من الاعلى :</value>
   </data>
   <data name="Label20.Size" type="System.Drawing.Size, System.Drawing">
     <value>144, 14</value>
