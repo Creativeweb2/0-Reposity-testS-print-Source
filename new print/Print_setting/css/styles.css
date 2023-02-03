@@ -1,0 +1,21 @@
+:root { padding:10px; direction:ltr;}
+h1    { padding-top:5px; padding-bottom:5px;  padding-right:10px;  padding-left:10px;    text-align:center;  font-size:16pt;  font-weight:900;  font-family:Tekton Pro Ext;}
+h4    { padding-top:1px;   padding-right:10px;  padding-left:10px;    font-size:12pt;  font-weight:300;  font-family:Tahoma;}
+h5    { padding-top:1px;   padding-right:10px;  padding-left:10px;    font-size:9.75pt;  font-weight:300;  font-family:Tahoma;}
+div {text-align:justify;}
+div.one  {margin-top:10px;}
+div.tow  {padding-top:10px;  padding-bottom:10px;}
+div.thre {margin-top:10px;   margin-bottom:10px;}
+div.four {padding-top:10px}
+img.top  { height:100px;  width:100%;}
+img.log  {height:100px;  width:100px;}
+img.footer {height:100px;  width:100%;}
+p.one {    padding-right:10px;  padding-left:10px;  font-size:12pt;text-align:center;font-weight:300;  font-family:Tahoma;}
+p.tow {    padding-right:10px;  padding-left:10px;  font-size:9.75pt;  font-family:Tahoma;font-weight:300;}
+table{ font-size:5.25pt;  text-align:center;  font-family:Tahoma;}
+table.one{ margin-top: 10px;   border: 3px solid black;    width: 100%;	height: 150px}
+table.tow{ border:1px solid black;    width: 100%;}
+th.tow{ background-color: rgb(189, 199, 189);  border: 0px solid black;}
+td.tow{ border: 0px solid black;}
+tr.tow{border: 1px solid black;}
+tr.tow:nth-child(even) {background-color: rgb(239,239,239);}
